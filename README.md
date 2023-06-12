@@ -1,1 +1,1 @@
-# quiz_javaScript
+# quiz_js
